@@ -1,4 +1,4 @@
-package coreprogramming.ControlFlows.Level_1;
+package coreprogramming.controlflows.level1;
 
 import java.util.Scanner;
 
@@ -16,4 +16,3 @@ public class CountdownWhile {
         }
     }
 }
-

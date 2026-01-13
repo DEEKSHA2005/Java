@@ -1,4 +1,4 @@
-package coreprogramming.Methods.Level_1;
+package coreprogramming.methods.level1;
 
 import java.util.Scanner;
 

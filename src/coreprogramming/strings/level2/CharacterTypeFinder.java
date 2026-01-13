@@ -1,4 +1,4 @@
-package coreprogramming.strings.Level_2;
+package coreprogramming.strings.level2;
 
 import java.util.Scanner;
 

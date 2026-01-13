@@ -1,4 +1,4 @@
-package coreprogramming.strings.EXTRAS_1;
+package coreprogramming.strings.extras1;
 
 import java.util.Scanner;
 

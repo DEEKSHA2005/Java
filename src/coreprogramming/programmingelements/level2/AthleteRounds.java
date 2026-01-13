@@ -1,4 +1,4 @@
-package coreprogramming.ProgrammingElements.Level_2;
+package coreprogramming.programmingelements.level2;
 
 import java.util.Scanner;
 

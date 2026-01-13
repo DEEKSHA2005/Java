@@ -1,4 +1,4 @@
-package coreprogramming.strings.EXTRAS_2;
+package coreprogramming.strings.extras2;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

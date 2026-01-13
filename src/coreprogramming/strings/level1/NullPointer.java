@@ -1,4 +1,4 @@
-package coreprogramming.strings.Level_1;
+package coreprogramming.strings.level1;
 
 public class NullPointer {
 

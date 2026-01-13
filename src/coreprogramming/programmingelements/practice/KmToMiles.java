@@ -1,4 +1,4 @@
-package CoreProgramming.ProgrammingElements.practice;
+package coreprogramming.programmingelements.practice;
 
 import java.util.Scanner;
 
